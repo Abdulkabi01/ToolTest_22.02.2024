@@ -1,12 +1,10 @@
-package soru_01;
+package soru_01_CssSelektor;
 
 import Araclar.BaseDriver;
 import org.junit.Assert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.junit.Test;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class soru_01 extends BaseDriver {
     @Test

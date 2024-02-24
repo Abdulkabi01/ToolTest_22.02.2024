@@ -1,4 +1,4 @@
-package soru_04;
+package soru_01_CssSelektor;
 
 import Araclar.BaseDriver;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package soru_05;
+package soru_01_CssSelektor;
 
 import Araclar.BaseDriver;
 import Araclar.MyFunction;
